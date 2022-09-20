@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @anmol957
-- 👀 I’m interested in Software Developer / Graduate Trainee
+- 👋 Hi, I’m Anmol Sonthalia
+- 👀 I’m interested in Software Developer
 - 🌱 I’m currently learning Java Developers
 - 💞️ I’m looking to collaborate on working team developer
 - 📫 How to reach me sonthaliaanmol1@gmail.com
